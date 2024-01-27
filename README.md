@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellah-idris&label=Profile%20views&color=0e75b6&style=flat" alt="abdellah-idris" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellah-idris" alt="abdellah-idris" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noreddinelam" alt="noreddinelam" /></a> </p>
 
 
 ###
